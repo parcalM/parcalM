@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Merve
+- 👀 I’m interested in books, trips, criminal series
+- 🌱 I’m currently learning angular js 
+- 📫 How to reach me parcalm0434@gmail.com or mparcal0434@gmail.com
