@@ -9,9 +9,7 @@ I started coding with C#. After laying the foundations and developing a project
 on my own, I continued with javascript and strengthened my frontend and
 dynamic infrastructure. My first real work experience was playing a role as a
 fullstack in an international crm project. I worked there with really experienced
-people. The information I got from them helped me a lot to prove myself in
-
-Turkey. Scott Pachunka was a good interface designer, but he did it with ready-
+people. The information I got from them helped me a lot to prove myself in Turkey. Scott Pachunka was a good interface designer, but he did it with ready-
 made applications. I myself prefer to write in core. I've never chased after a
 
 library, no matter how advanced technology is, it's hard to trust. because it is
